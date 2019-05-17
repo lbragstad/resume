@@ -2,6 +2,7 @@
 
 * Email: lbragstad@gmail.com
 * Github: [github.com/lbragstad](https://github.com/lbragstad)
+* [LinkedIn](https://www.linkedin.com/in/lbragstad/)
 
 ## LANGUAGES, TOOLS & PLATFORMS
 
