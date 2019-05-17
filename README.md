@@ -4,35 +4,6 @@
 * Github: [github.com/lbragstad](https://github.com/lbragstad)
 * [LinkedIn](https://www.linkedin.com/in/lbragstad/)
 
-## LANGUAGES, TOOLS & PLATFORMS
-
-### Languages
-
-* Python
-* Golang
-* Javascript
-
-### Development tools & deployment tooling
-
-* Vi
-* PyCharm
-* Git
-* Gerrit
-* Github
-* Jenkins
-* Zuul
-* LXC
-* OpenStack
-* Ansible
-
-### Platforms
-
-* macOS
-* Ubuntu
-* Fedora
-* Red Hat
-* Debian
-
 ## PROFESSIONAL EXPERIENCE
 
 ### OpenStack Architect - Futurewei Technologies, Fargo, North Dakota (July 2017 - present)
@@ -110,8 +81,11 @@
 * A.A., Central Lakes College - Brainerd, Minnesota (September 2006 - August
   2008)
 
-## CERTIFICATIONS & PATENTS
+## SPECIALTIES, TOOLS & PATENTS
 
+* Languages: Python, Golang, Javascript
+* Development tools & deployment tooling: Vi, PyCharm, Git, Gerrit, Github, Jenkins, Zuul, LXC, OpenStack, Ansible
+* Platforms: macOS, Ubuntu, Fedora, Red Hat, Debian
 * Certified OpenStack Administrator
 * Named on over 20 patents contributing to IBM's Patent Portfolio
 
