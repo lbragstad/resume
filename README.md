@@ -35,7 +35,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### OpenStack Architect - Huawei, Fargo, North Dakota (July 2017 - present)
+### OpenStack Architect - Futurewei Technologies, Fargo, North Dakota (July 2017 - present)
 
 * Initiated, led, and implemented a community-wide effort to standardize
   role-based access control (RBAC) across OpenStack services
