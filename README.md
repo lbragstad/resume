@@ -1,7 +1,7 @@
 # Lance Bragstad
 
 * Email: lbragstad@gmail.com
-* Github: github.com/lbragstad
+* Github: [github.com/lbragstad](https://github.com/lbragstad)
 
 ## LANGUAGES, TOOLS & PLATFORMS
 
