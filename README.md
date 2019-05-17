@@ -46,13 +46,11 @@
 * Interfaced with downstream product teams and collected public cloud
   requirements to implement upstream
 * Elected by peers within the OpenStack community to serve as the Project Team
-  Lead (PTL) for OpenStack's keystone project, responsible for all identity,
-  authentication, and authorization related projects, clients, and libraries
-  (February 2017)
-* Coordinated the management of keystone releases for Pike, Queens, Rocky, and
-  Stein (February 2017 - March 2019)
-* Consistently held retrospective with teams throughout each development cycle
-  to find deficiencies in process and capitalize on positive patterns
+  Lead (PTL) for OpenStack's keystone project, coordinating technical and
+  non-technical details for the Pike, Queens, Rocky, and Stein releases
+  (February 2017 - March 2019)
+* Moderated retrospective throughout each development cycle to find
+  deficiencies in process and capitalize on positive patterns
 * Planned and scheduled identity-related content for events including Project
   Team Gatherings, Forums, and Summits
 * Elected as a member of the OpenStack Technical Committee focused on the
