@@ -20,7 +20,7 @@
   Lead (PTL) for OpenStack's keystone project, coordinating technical and
   non-technical details for the Pike, Queens, Rocky, and Stein releases
   (February 2017 - March 2019)
-* Moderated retrospective throughout each development cycle to find
+* Moderated retrospectives throughout each development cycle to find
   deficiencies in process and capitalize on positive patterns
 * Planned and scheduled identity-related content for events including Project
   Team Gatherings, Forums, and Summits
@@ -84,16 +84,18 @@
 ## SPECIALTIES, TOOLS & PATENTS
 
 * Languages: Python, Golang, Javascript
-* Development tools & deployment tooling: Vi, PyCharm, Git, Gerrit, Github, Jenkins, Zuul, LXC, OpenStack, Ansible
+* Development tools & deployment tooling: Vi, PyCharm, Git, Gerrit, Github,
+  Jenkins, Zuul, LXC, OpenStack, Ansible
 * Platforms: macOS, Ubuntu, Fedora, Red Hat, Debian
 * Certified OpenStack Administrator
 * Named on over 20 patents contributing to IBM's Patent Portfolio
 
 ## UNDERGRADUATE EXPERIENCE
 
-* IBM OpenStack Contributor - NDSU Capstone, Fargo, North Dakota (Jan. 2012 ­- May 2012)
-* Deployed a proof of concept and production OpenStack environments built on
-  the Diablo and Essex releases
+* IBM OpenStack Contributor - NDSU Capstone, Fargo, North Dakota (January 2012
+  ­- May 2012)
+* Deployed proof-of-concept and production OpenStack environments built on the
+  Diablo and Essex releases
 * Configured and implemented OpenStack deployment for use by NDSU Computer
   Science faculty and students
 
