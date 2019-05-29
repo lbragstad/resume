@@ -61,8 +61,8 @@
 * Deployed and administered production OpenStack environments for internal
   development teams on Power (PowerVM, PowerKVM) and x86 (Hyper­V, KVM)
   hardware architectures
-* Executed encryption and copyright analysis for IBM products built on core
-  OpenStack projects
+* Executed encryption and copyright analysis for IBM products built on
+* OpenStack projects
 * Contributed to Opscode Chef repositories to enable Chef on PowerKVM
   distributions
 * Developed OpenStack compute drivers for PowerVM integration with IBM VIOS,
@@ -100,4 +100,4 @@
   Science faculty and students
 
 A more detailed version of my résumé and examples of my work are available
-[online](https://www.lbragstad.com/resume)
+on my [blog](https://www.lbragstad.com/resume)
