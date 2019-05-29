@@ -62,7 +62,7 @@
   development teams on Power (PowerVM, PowerKVM) and x86 (Hyper­V, KVM)
   hardware architectures
 * Executed encryption and copyright analysis for IBM products built on
-* OpenStack projects
+  OpenStack projects
 * Contributed to Opscode Chef repositories to enable Chef on PowerKVM
   distributions
 * Developed OpenStack compute drivers for PowerVM integration with IBM VIOS,
